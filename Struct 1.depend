@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513030869 source:c:\users\201611140006\desktop\atividades\struct\struct 1\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+
